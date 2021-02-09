@@ -1,7 +1,7 @@
 <h1> Stone Paper Scissors Game </h1>
  
 
-*<h2>:computer:play the famous game  with  the computer * :blue_book:</h2>
+<h3>:computer:play the famous game  with  the computer  :blue_book:</h3>
 >from the series: learning the basics of Java script  :muscle:
 
 ----
