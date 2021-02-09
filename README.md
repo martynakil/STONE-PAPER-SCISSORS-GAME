@@ -23,11 +23,11 @@ The panel shows whether you or the computer won.
 
 * I learned the basics of JS here
 * I practiced CSS
-* Arrow functions
-* Conditional Statements
-* DOM Elements (
- 
- Technology: HTML, CSS, JAVA SCRIPT
+* Functions 
+* Conditional Statements( else, if )
+* DOM Elements (querySelector)
+
+:computer: TECHNOLOGIES : html, css and JS.
  -----
  My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/to-do-list)
 
