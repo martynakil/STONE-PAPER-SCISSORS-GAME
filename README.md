@@ -37,9 +37,9 @@ The panel shows whether you or the computer won.
 * and then "go live" is enough
 -------------------
 
-[do you want to watch it live?click me!](https://martynakil.github.io/STONE-PAPER-SCISSORS-GAME/game_paper:stone:scissors/index.html)
-? 📲 :calling:  :arrow_forward: 
-
+do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https://martynakil.github.io/STONE-PAPER-SCISSORS-GAME/game_paper:stone:scissors/index.html)
+? 
+-----
 
 :computer: TECHNOLOGIES : html, css and JS.
 -----
