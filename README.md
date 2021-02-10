@@ -36,7 +36,9 @@ The panel shows whether you or the computer won.
 * Now you just need to unpack the downloaded file and open it in your favorite editor.
 * and then "go live" is enough
 -------------------
-do you want to watch it live? 📲 :calling:  :arrow_forward:    [click me] (https://martynakil.github.io/STONE-PAPER-SCISSORS-GAME/game_paper:stone:scissors/index.html)
+
+[do you want to watch it live?click me!](https://martynakil.github.io/STONE-PAPER-SCISSORS-GAME/game_paper:stone:scissors/index.html)
+? 📲 :calling:  :arrow_forward: 
 
 
 :computer: TECHNOLOGIES : html, css and JS.
