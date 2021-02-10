@@ -35,9 +35,9 @@ The panel shows whether you or the computer won.
 * An item should appear with the "Download ZIP" option - click again.
 * Now you just need to unpack the downloaded file and open it in your favorite editor.
 * and then "go live" is enough
-
------
-LIVE:    :arrow_forward:   https://martynakil.github.io/STONE-PAPER-SCISSORS-GAME/game_paper:stone:scissors/index.html    :arrow_backward:
+-------------------
+do you want to watch it live?  :arrow_forward:[click me :) :arrow_forward:
+]( https://martynakil.github.io/STONE-PAPER-SCISSORS-GAME/game_paper:stone:scissors/index.html )
 
 
 :computer: TECHNOLOGIES : html, css and JS.
